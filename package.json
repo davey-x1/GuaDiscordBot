@@ -1,0 +1,16 @@
+{
+  "name": "Bad Jokes",
+  "version": "1.0.0",
+  "description": "Shut the fuck up",
+  "main": "bot.js",
+  "author": "Davey-X",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "discord.js": "^11.5.1",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-static": "^2.7.0",
+    "googleapis": "^39.2.0",
+    "opusscript": "0.0.7",
+    "winston": "^3.2.1"
+  }
+}
